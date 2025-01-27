@@ -1,0 +1,7 @@
+{
+    "name": "LCGold",
+    "version_number": "1.0.1",
+    "description": "A Lib Mod for my modpacks",
+    "website_url": "https://github.com/GoldKing120/LCGold.git",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
