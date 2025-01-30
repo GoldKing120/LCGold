@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1412125203
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: goldmod.lethalbundle
+      Dependencies: {}
+    Info_1:
+      Name: goldmodscene.lethalbundle
+      Dependencies: {}
